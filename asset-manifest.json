@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "https://hanikoussa.github.io/csb-rivvec/static/css/main.d8799457.chunk.css",
+    "main.js": "https://hanikoussa.github.io/csb-rivvec/static/js/main.5fa8e5d6.chunk.js",
+    "main.js.map": "https://hanikoussa.github.io/csb-rivvec/static/js/main.5fa8e5d6.chunk.js.map",
+    "runtime-main.js": "https://hanikoussa.github.io/csb-rivvec/static/js/runtime-main.a9e14785.js",
+    "runtime-main.js.map": "https://hanikoussa.github.io/csb-rivvec/static/js/runtime-main.a9e14785.js.map",
+    "static/css/2.e1f817c4.chunk.css": "https://hanikoussa.github.io/csb-rivvec/static/css/2.e1f817c4.chunk.css",
+    "static/js/2.ae44ef4e.chunk.js": "https://hanikoussa.github.io/csb-rivvec/static/js/2.ae44ef4e.chunk.js",
+    "static/js/2.ae44ef4e.chunk.js.map": "https://hanikoussa.github.io/csb-rivvec/static/js/2.ae44ef4e.chunk.js.map",
+    "index.html": "https://hanikoussa.github.io/csb-rivvec/index.html",
+    "precache-manifest.1706aa3319d3fab70fbd9e1b308bb0ef.js": "https://hanikoussa.github.io/csb-rivvec/precache-manifest.1706aa3319d3fab70fbd9e1b308bb0ef.js",
+    "service-worker.js": "https://hanikoussa.github.io/csb-rivvec/service-worker.js",
+    "static/css/2.e1f817c4.chunk.css.map": "https://hanikoussa.github.io/csb-rivvec/static/css/2.e1f817c4.chunk.css.map",
+    "static/css/main.d8799457.chunk.css.map": "https://hanikoussa.github.io/csb-rivvec/static/css/main.d8799457.chunk.css.map",
+    "static/js/2.ae44ef4e.chunk.js.LICENSE.txt": "https://hanikoussa.github.io/csb-rivvec/static/js/2.ae44ef4e.chunk.js.LICENSE.txt",
+    "static/media/herfah.jpeg": "https://hanikoussa.github.io/csb-rivvec/static/media/herfah.72e8c96a.jpeg",
+    "static/media/peakpx.jpeg": "https://hanikoussa.github.io/csb-rivvec/static/media/peakpx.debddf86.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9e14785.js",
+    "static/css/2.e1f817c4.chunk.css",
+    "static/js/2.ae44ef4e.chunk.js",
+    "static/css/main.d8799457.chunk.css",
+    "static/js/main.5fa8e5d6.chunk.js"
+  ]
+}
